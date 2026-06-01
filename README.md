@@ -1,13 +1,33 @@
+<!--
+  ┌─────────────────────────────────────────────────────┐
+  │              DHRUVIN MALOT — PROFILE HEADER         │
+  └─────────────────────────────────────────────────────┘
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Dhruvin%20Malot&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:dbeafe,100:e8f4fd&height=200&section=header&text=Dhruvin%20Malot&fontSize=52&fontColor=1d4ed8&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=58&descSize=16&descColor=374151&animation=fadeIn" alt="Dhruvin Malot — Full Stack Developer"/>
+</picture>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Dhruvin+Malot+%F0%9F%91%8B;Full+Stack+Developer+%E2%80%94+MERN+%C2%B7+TypeScript;Building+AI-Powered+Products;3+Production+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+```
+▸ dhruvinmalot.official21@gmail.com   ▸ Pune, India   ▸ MIT-WPU · May 2026
+```
+
+<a href="mailto:dhruvinmalot.official21@gmail.com">
+  <img src="https://img.shields.io/badge/─────────────────%20say%20hello%20─────────────────-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email"/>
+</a>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvinmalot.official21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvin-malot)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruvin210)
-[![Location](https://img.shields.io/badge/Pune,_India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)]()
+<a href="https://linkedin.com/in/dhruvin-malot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/dhruvin210"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Pune,_India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dhruvin210&style=flat-square&color=58A6FF&label=profile+views"/>
 
 </div>
 
@@ -70,7 +90,7 @@ I'm a **Full Stack Developer** (MERN · TypeScript · REST APIs) at **MIT World 
 
 ## 🚀 Featured Projects
 
-### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia.example.com)
+### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia-x.vercel.app/)
 > `MERN` `TypeScript` `REST APIs` `AI`
 
 Aggregates **10,000+ PubMed, OpenAlex & ClinicalTrials.gov** entries into a real-time clinical evidence engine. Cuts manual research lookup time by **60%**. Features session memory, authentication, and what-if scenario analysis on React dashboards.
@@ -100,11 +120,45 @@ Production-grade company website with admin panel, product catalogue, and inquir
 
 ## 💼 Experience
 
-```
-Intersect Creative        Web Developer Intern        Jul 2025 – Dec 2025
-STL Digital Limited       IT & Technology Intern      Feb 2025 – Jun 2025
-Netsol IT Solutions       Web Developer Intern        Jun 2024 – Jan 2025
-```
+<details open>
+<summary><strong>🔷 Web Developer Intern — Intersect Creative</strong> &nbsp;|&nbsp; <code>Jul 2025 – Dec 2025</code> &nbsp;·&nbsp; Contract</summary>
+
+<br/>
+
+> `Node.js` `Express.js` `MySQL` `JavaScript` `jQuery` `Agile`
+
+- **Reduced booking-system error rate to zero** during QA by architecting input-validation and security-hardening layers across a Node.js/Express.js backend handling **500+ concurrent booking records**
+- **Improved database query throughput by 35%** by redesigning relational MySQL schemas and indexing strategies — cutting average response time for high-traffic booking lookups
+- **Shipped a responsive, accessible front-end** with sub-200ms real-time UI feedback using JavaScript and jQuery, reducing user-reported friction in the appointment scheduling flow
+- **Contributed to Agile sprint planning** and daily stand-ups, aligning backend delivery milestones with cross-functional design and QA teams
+
+</details>
+
+<details>
+<summary><strong>🔶 IT & Technology Intern — STL Digital Limited</strong> &nbsp;|&nbsp; <code>Feb 2025 – Jun 2025</code> &nbsp;·&nbsp; Contract</summary>
+
+<br/>
+
+> `IT Pipeline Analysis` `Technical Reporting` `Agile/Scrum` `Stakeholder Communication`
+
+- **Accelerated project delivery workflows** by mapping end-to-end IT pipeline bottlenecks and presenting a prioritised remediation plan to senior leadership — adopted across **2 active sprint cycles**
+- **Authored structured technical reports** for C-suite stakeholders, translating system-analysis findings into actionable delivery recommendations with zero misalignment between engineering output and strategic OKRs
+- **Supported real-time technology service operations** across live infrastructure projects, collaborating with the Technology Services team to maintain sprint velocity
+
+</details>
+
+<details>
+<summary><strong>🔹 Web Developer Intern — Netsol IT Solutions Pvt. Ltd.</strong> &nbsp;|&nbsp; <code>Jun 2024 – Jan 2025</code> &nbsp;·&nbsp; Contract</summary>
+
+<br/>
+
+> `Node.js` `Express.js` `MySQL` `JavaScript` `jQuery` `REST APIs` `Security`
+
+- **Cut API response latency by 40%** by architecting RESTful endpoints with Node.js/Express.js and redesigning the MySQL schema with optimised indexing — directly improving data retrieval for the appointment booking module
+- **Hardened both admin and client modules** against injection and auth vulnerabilities — reducing post-launch security issues to **zero** across the full deployment
+- **Shipped dynamic, responsive UIs** with sub-200ms real-time feedback loops using JavaScript and jQuery, improving end-user task-completion rates across the platform
+
+</details>
 
 ---
 
