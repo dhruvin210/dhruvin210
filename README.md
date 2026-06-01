@@ -1,33 +1,28 @@
-<!--
-  ┌─────────────────────────────────────────────────────┐
-  │              DHRUVIN MALOT — PROFILE HEADER         │
-  └─────────────────────────────────────────────────────┘
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Dhruvin%20Malot&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:dbeafe,100:e8f4fd&height=200&section=header&text=Dhruvin%20Malot&fontSize=52&fontColor=1d4ed8&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20TypeScript%20%C2%B7%20AI&descAlignY=58&descSize=16&descColor=374151&animation=fadeIn" alt="Dhruvin Malot — Full Stack Developer"/>
-</picture>
-
 <div align="center">
 
-```
-▸ dhruvinmalot.official21@gmail.com   ▸ Pune, India   ▸ MIT-WPU · May 2026
-```
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=40&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Dhruvin+Malot" alt="Dhruvin Malot" />
 
-<a href="mailto:dhruvinmalot.official21@gmail.com">
-  <img src="https://img.shields.io/badge/─────────────────%20say%20hello%20─────────────────-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer+%E2%80%94+MERN+%C2%B7+TypeScript+%C2%B7+REST+APIs;Building+AI-powered+products+from+Pune%2C+India;3+production+internships+%7C+shipping+since+2024" alt="subtitle" />
 
 <br/>
 
+<a href="mailto:dhruvinmalot.official21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dhruvinmalot.official21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/dhruvin-malot"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/dhruvin210"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dhruvin210"><img src="https://img.shields.io/badge/GitHub-dhruvin210-181717?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Pune,_India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Pune,_India-1f2937?style=flat-square"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=dhruvin210&style=flat-square&color=58A6FF&label=profile+views"/>
+<img src="https://img.shields.io/badge/MIT--WPU-May_2026-0ea5e9?style=flat-square"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dhruvin210&style=flat-square&color=58A6FF&label=visitors"/>
+
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 </div>
 
@@ -90,7 +85,7 @@ I'm a **Full Stack Developer** (MERN · TypeScript · REST APIs) at **MIT World 
 
 ## 🚀 Featured Projects
 
-### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia-x.vercel.app/)
+### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia.example.com)
 > `MERN` `TypeScript` `REST APIs` `AI`
 
 Aggregates **10,000+ PubMed, OpenAlex & ClinicalTrials.gov** entries into a real-time clinical evidence engine. Cuts manual research lookup time by **60%**. Features session memory, authentication, and what-if scenario analysis on React dashboards.
