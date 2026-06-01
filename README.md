@@ -120,12 +120,3 @@ Production-grade company website with admin panel, product catalogue, and inquir
 
 </div>
 
----
-
-<div align="center">
-
-*"Ship fast. Optimise smarter. Build what matters."*
-
-⭐️ Feel free to star repos you find useful!
-
-</div>
