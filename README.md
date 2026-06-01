@@ -85,7 +85,7 @@ I'm a **Full Stack Developer** (MERN · TypeScript · REST APIs) at **MIT World 
 
 ## 🚀 Featured Projects
 
-### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia.example.com)
+### 🩺 [Aurevia — AI Medical Research Copilot](https://aurevia-x.vercel.app/)
 > `MERN` `TypeScript` `REST APIs` `AI`
 
 Aggregates **10,000+ PubMed, OpenAlex & ClinicalTrials.gov** entries into a real-time clinical evidence engine. Cuts manual research lookup time by **60%**. Features session memory, authentication, and what-if scenario analysis on React dashboards.
